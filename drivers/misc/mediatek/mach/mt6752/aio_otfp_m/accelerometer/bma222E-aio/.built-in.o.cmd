@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mach/mt6752/aio_otfp_m/accelerometer/bma222E-aio/built-in.o :=  aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/mach/mt6752/aio_otfp_m/accelerometer/bma222E-aio/built-in.o drivers/misc/mediatek/mach/mt6752/aio_otfp_m/accelerometer/bma222E-aio/cust_acc.o 

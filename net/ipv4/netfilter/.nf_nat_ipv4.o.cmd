@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/nf_nat_ipv4.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o net/ipv4/netfilter/nf_nat_ipv4.o net/ipv4/netfilter/nf_nat_l3proto_ipv4.o net/ipv4/netfilter/nf_nat_proto_icmp.o 

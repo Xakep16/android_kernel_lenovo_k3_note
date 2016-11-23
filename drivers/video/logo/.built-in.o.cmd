@@ -1,0 +1,1 @@
+cmd_drivers/video/logo/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/video/logo/built-in.o drivers/video/logo/logo.o drivers/video/logo/logo_linux_mono.o drivers/video/logo/logo_linux_vga16.o drivers/video/logo/logo_linux_clut224.o 

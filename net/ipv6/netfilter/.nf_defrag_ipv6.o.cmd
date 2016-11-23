@@ -1,0 +1,1 @@
+cmd_net/ipv6/netfilter/nf_defrag_ipv6.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o net/ipv6/netfilter/nf_defrag_ipv6.o net/ipv6/netfilter/nf_defrag_ipv6_hooks.o net/ipv6/netfilter/nf_conntrack_reasm.o 

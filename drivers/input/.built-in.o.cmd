@@ -1,0 +1,1 @@
+cmd_drivers/input/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/input/built-in.o drivers/input/input-core.o drivers/input/evdev.o drivers/input/touchscreen/built-in.o drivers/input/misc/built-in.o 

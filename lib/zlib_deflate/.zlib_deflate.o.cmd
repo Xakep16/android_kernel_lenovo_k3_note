@@ -1,0 +1,1 @@
+cmd_lib/zlib_deflate/zlib_deflate.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o lib/zlib_deflate/zlib_deflate.o lib/zlib_deflate/deflate.o lib/zlib_deflate/deftree.o lib/zlib_deflate/deflate_syms.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accelerometer/bma222E/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/accelerometer/bma222E/built-in.o drivers/misc/mediatek/accelerometer/bma222E/bma222E.o 

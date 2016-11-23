@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/aio_otfp_drvonly.dtb: arch/arm64/boot/dts/.aio_otfp_drvonly.dtb.dts.tmp arch/arm64/boot/dts/mt6752.dtsi /home/nikolay/aosp/android_kernel_jiayu_s3_h560-android-7.0/drivers/misc/mediatek/mach/mt6752/aio_otfp/dct/dct/cust_eint.dtsi arch/arm64/boot/dts/trusty.dtsi

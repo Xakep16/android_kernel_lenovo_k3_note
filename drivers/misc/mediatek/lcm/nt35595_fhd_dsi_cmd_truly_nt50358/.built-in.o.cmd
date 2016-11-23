@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lcm/nt35595_fhd_dsi_cmd_truly_nt50358/built-in.o :=  aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/lcm/nt35595_fhd_dsi_cmd_truly_nt50358/built-in.o drivers/misc/mediatek/lcm/nt35595_fhd_dsi_cmd_truly_nt50358/nt35595_fhd_dsi_cmd_truly_nt50358.o 

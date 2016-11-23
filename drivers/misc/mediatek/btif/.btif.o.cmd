@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/btif/btif.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/btif/btif.o drivers/misc/mediatek/btif/mtk_btif.o drivers/misc/mediatek/btif/mtk_btif_exp.o 

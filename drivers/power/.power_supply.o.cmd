@@ -1,0 +1,1 @@
+cmd_drivers/power/power_supply.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/power/power_supply.o drivers/power/power_supply_core.o drivers/power/power_supply_sysfs.o drivers/power/power_supply_leds.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/alsps/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/alsps/built-in.o drivers/misc/mediatek/alsps/alsps.o drivers/misc/mediatek/alsps/alsps_factory.o drivers/misc/mediatek/alsps/aal_control.o drivers/misc/mediatek/alsps/EPL21822/built-in.o 

@@ -1,0 +1,1 @@
+cmd_net/netfilter/netfilter.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o net/netfilter/netfilter.o net/netfilter/core.o net/netfilter/nf_log.o net/netfilter/nf_queue.o net/netfilter/nf_sockopt.o 

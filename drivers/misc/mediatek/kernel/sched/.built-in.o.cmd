@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/kernel/sched/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/kernel/sched/built-in.o drivers/misc/mediatek/kernel/sched/rq_stats.o drivers/misc/mediatek/kernel/sched/sched_avg.o drivers/misc/mediatek/kernel/sched/cputopo.o 

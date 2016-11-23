@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/hid/hid.o drivers/hid/hid-debug.o drivers/hid/hid-core.o drivers/hid/hid-input.o drivers/hid/hidraw.o 

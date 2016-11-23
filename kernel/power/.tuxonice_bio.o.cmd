@@ -1,0 +1,1 @@
+cmd_kernel/power/tuxonice_bio.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o kernel/power/tuxonice_bio.o kernel/power/tuxonice_bio_core.o kernel/power/tuxonice_bio_chains.o kernel/power/tuxonice_bio_signature.o 

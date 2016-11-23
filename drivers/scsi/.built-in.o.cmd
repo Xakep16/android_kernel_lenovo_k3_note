@@ -1,0 +1,1 @@
+cmd_drivers/scsi/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/scsi/built-in.o drivers/scsi/scsi_mod.o drivers/scsi/scsi_tgt.o drivers/scsi/sd_mod.o 

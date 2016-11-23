@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cam_cal/src/mt6752/ov13850sunny_eeprom/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/cam_cal/src/mt6752/ov13850sunny_eeprom/built-in.o drivers/misc/mediatek/cam_cal/src/mt6752/ov13850sunny_eeprom/ov13850sunny_otp.o 

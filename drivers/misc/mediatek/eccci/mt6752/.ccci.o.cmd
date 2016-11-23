@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/eccci/mt6752/ccci.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/eccci/mt6752/ccci.o drivers/misc/mediatek/eccci/mt6752/ccci_platform.o drivers/misc/mediatek/eccci/mt6752/cldma_platform.o drivers/misc/mediatek/eccci/mt6752/ccif_platform.o 

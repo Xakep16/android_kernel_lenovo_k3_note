@@ -1,0 +1,1 @@
+cmd_drivers/staging/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/staging/built-in.o drivers/staging/staging.o drivers/staging/media/built-in.o drivers/staging/android/built-in.o 

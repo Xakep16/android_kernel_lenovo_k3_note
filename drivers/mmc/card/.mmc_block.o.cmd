@@ -1,0 +1,1 @@
+cmd_drivers/mmc/card/mmc_block.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/mmc/card/mmc_block.o drivers/mmc/card/block.o drivers/mmc/card/queue.o 

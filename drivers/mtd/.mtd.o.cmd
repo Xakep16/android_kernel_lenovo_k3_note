@@ -1,0 +1,1 @@
+cmd_drivers/mtd/mtd.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/mtd/mtd.o drivers/mtd/mtdcore.o drivers/mtd/mtdsuper.o drivers/mtd/mtdconcat.o drivers/mtd/mtdpart.o drivers/mtd/mtdchar.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/md32/mt6752/md32.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/md32/mt6752/md32.o drivers/misc/mediatek/md32/mt6752/md32_helper.o drivers/misc/mediatek/md32/mt6752/md32_ipi.o drivers/misc/mediatek/md32/mt6752/md32_irq.o drivers/misc/mediatek/md32/mt6752/md32_ocd.o 

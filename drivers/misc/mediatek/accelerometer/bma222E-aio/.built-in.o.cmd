@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accelerometer/bma222E-aio/built-in.o :=  aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/accelerometer/bma222E-aio/built-in.o drivers/misc/mediatek/accelerometer/bma222E-aio/bma222E.o 

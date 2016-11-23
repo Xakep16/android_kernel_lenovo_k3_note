@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/btif/btif.o := /home/nikolay/aosp/prebuild/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/btif/btif.o drivers/misc/mediatek/btif/mtk_btif.o drivers/misc/mediatek/btif/mtk_btif_exp.o 

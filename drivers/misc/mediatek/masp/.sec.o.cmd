@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/masp/sec.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/masp/sec.o drivers/misc/mediatek/masp/mt6752/module/sec_mod.o drivers/misc/mediatek/masp/asf/core/sec_ops.o drivers/misc/mediatek/masp/asf/core/alg_sha1.o drivers/misc/mediatek/masp/mt6752/mach/arm64/sec_uid.o 

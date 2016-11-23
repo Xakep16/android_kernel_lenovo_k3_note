@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lens/mt6752/bu64745gwzaf/built-in.o :=  aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/lens/mt6752/bu64745gwzaf/built-in.o drivers/misc/mediatek/lens/mt6752/bu64745gwzaf/BU64745GWZAF.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/usb20/mt6752/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/usb20/mt6752/built-in.o drivers/misc/mediatek/usb20/mt6752/usb20.o drivers/misc/mediatek/usb20/mt6752/usb20_phy.o drivers/misc/mediatek/usb20/mt6752/usb20_host.o drivers/misc/mediatek/usb20/mt6752/usb20_otg_if.o 

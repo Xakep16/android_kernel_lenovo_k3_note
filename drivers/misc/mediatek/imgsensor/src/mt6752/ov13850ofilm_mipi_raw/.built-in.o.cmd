@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/mt6752/ov13850ofilm_mipi_raw/built-in.o :=  aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/imgsensor/src/mt6752/ov13850ofilm_mipi_raw/built-in.o drivers/misc/mediatek/imgsensor/src/mt6752/ov13850ofilm_mipi_raw/ov13850ofilmmipiraw_Sensor.o drivers/misc/mediatek/imgsensor/src/mt6752/ov13850ofilm_mipi_raw/ov13850ofilm_otp_cal.o 

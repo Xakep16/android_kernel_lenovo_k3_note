@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/m4u/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/m4u/built-in.o drivers/misc/mediatek/m4u/mt6752/built-in.o 

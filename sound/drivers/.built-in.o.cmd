@@ -1,0 +1,1 @@
+cmd_sound/drivers/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o sound/drivers/built-in.o sound/drivers/opl3/built-in.o sound/drivers/opl4/built-in.o sound/drivers/mpu401/built-in.o sound/drivers/vx/built-in.o sound/drivers/pcsp/built-in.o 

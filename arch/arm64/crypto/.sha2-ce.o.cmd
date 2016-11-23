@@ -1,0 +1,1 @@
+cmd_arch/arm64/crypto/sha2-ce.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o arch/arm64/crypto/sha2-ce.o arch/arm64/crypto/sha2-ce-glue.o arch/arm64/crypto/sha2-ce-core.o 

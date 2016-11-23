@@ -1,0 +1,51 @@
+
+/dts-v1/;
+
+/include/ "mt6752.dtsi"
+
+/ {
+	memory@00000000 {
+		device_type = "memory";
+		reg = <0 0x40000000 0 0xFA00000>;
+	};
+
+	bus {
+		compatible = "simple-bus";
+		#address-cells = <1>;
+		#size-cells = <1>;
+		ranges = <0 0 0 0xffffffff>;
+
+		I2C1@0x11007000 {
+				ap3426@1e {
+				compatble = "ap3426";
+				reg = <0x1e>;
+			};
+		};
+	};
+    TOUCH@0 {
+    	compatible = "mediatek,TPD";
+		eint-gpio = <139 1>;
+		rst-gpio = <144 1>;
+		interrupts = <139 2>;
+    };	
+  /*  start sensor */
+		cust_alsps@0 {
+		compatible 				= "mediatek,AP3426";
+		i2c_num 				= <1>;
+		i2c_addr 				= <0x1e 0 0 0>;
+		polling_mode_ps			= <0>;
+		polling_mode_als		= <1>;
+		power_id   				= <0xffff>;
+		power_vol  				= <0>; 
+/* Total has 15 level*/
+		als_level  				= <0 471 1058 1703 3883 10171 10443 15445 28499 35153 41421 59194 65535 65535 65535>;
+/*  Total has 16 range*/
+		als_value  				= <0 133 303 501 1002 2001 3355 5001 8008 10010 12000 16010 20010 20010 20010 20010>;
+		ps_threshold_high		=  <32>;
+		ps_threshold_low		=  <22>;
+		is_batch_supported_ps	= <1>;
+		is_batch_supported_als	= <1>;
+		};
+
+  /* end sensor */
+};

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accelerometer/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/accelerometer/built-in.o drivers/misc/mediatek/accelerometer/accel.o drivers/misc/mediatek/accelerometer/accel_factory.o drivers/misc/mediatek/accelerometer/bma222E-new/built-in.o 

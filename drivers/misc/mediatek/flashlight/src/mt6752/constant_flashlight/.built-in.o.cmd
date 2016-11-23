@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/flashlight/src/mt6752/constant_flashlight/built-in.o :=  aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/flashlight/src/mt6752/constant_flashlight/built-in.o drivers/misc/mediatek/flashlight/src/mt6752/constant_flashlight/leds_strobe.o drivers/misc/mediatek/flashlight/src/mt6752/constant_flashlight/strobe_main_sid2_part1.o 

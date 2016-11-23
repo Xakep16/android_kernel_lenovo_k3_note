@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/aio_otfp_m.dtb: arch/arm64/boot/dts/.aio_otfp_m.dtb.dts.tmp arch/arm64/boot/dts/mt6752.dtsi /home/nikolay/aosp/Android7K3NoTE/drivers/misc/mediatek/mach/mt6752/aio_otfp_m/dct/dct/cust_eint.dtsi arch/arm64/boot/dts/trusty.dtsi

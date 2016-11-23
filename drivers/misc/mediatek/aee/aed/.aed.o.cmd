@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/aed/aed.o := /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/misc/mediatek/aee/aed/aed.o drivers/misc/mediatek/aee/aed/aed-main.o drivers/misc/mediatek/aee/aed/aed-debug.o drivers/misc/mediatek/aee/aed/aed-process.o drivers/misc/mediatek/aee/aed/monitor_hang.o 

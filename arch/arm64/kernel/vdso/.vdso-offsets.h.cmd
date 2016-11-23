@@ -1,0 +1,1 @@
+cmd_arch/arm64/kernel/vdso/vdso-offsets.h := 	/home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-nm arch/arm64/kernel/vdso/vdso.so.dbg | /home/nikolay/aosp/Android7K3NoTE/arch/arm64/kernel/vdso/gen_vdso_offsets.sh | LC_ALL=C sort > arch/arm64/kernel/vdso/vdso-offsets.h && cp arch/arm64/kernel/vdso/vdso-offsets.h include/generated/

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/built-in.o :=  /home/nikolay/aosp/prebuild/aarch64-elf-5.3.0-Linux-x86_64/bin/aarch64-elf-ld -EL    -r -o drivers/usb/gadget/built-in.o drivers/usb/gadget/udc-core.o drivers/usb/gadget/libcomposite.o drivers/usb/gadget/usb_f_acm.o drivers/usb/gadget/u_serial.o drivers/usb/gadget/usb_f_serial.o drivers/usb/gadget/g_android.o 
